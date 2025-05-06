@@ -1,4 +1,4 @@
-# Home_Loan_Default_Prediction
+# Home Loan Default Prediction
 This project aims to build a robust binary classification model to predict loan defaults using advanced deep learning techniques and a custom weighted focal loss to address class imbalance.
 
 ## 🔍 Problem Statement
